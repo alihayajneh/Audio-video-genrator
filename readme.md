@@ -7,7 +7,7 @@
 
 > Transform your audio files into stunning visualized videos with professional-grade effects and social media optimization.
 
-![AudioViz Pro Demo](demo/audioviz-pro-demo.gif)
+![AudioViz Pro Demo](Screenshot.jpg)
 
 ## ✨ Features
 
