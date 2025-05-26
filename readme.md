@@ -134,9 +134,6 @@ AudioViz Pro automatically optimizes your videos for each platform:
 ```
 Audio-Video-Generator/
 ├── main.py                    # Main application entry point
-├── video_generator_thread.py  # Video processing engine
-├── ui_styles.py              # Modern UI styling
-├── requirements.txt          # Python dependencies
 └── README.md                # This file
 ```
 
