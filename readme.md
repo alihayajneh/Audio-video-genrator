@@ -251,27 +251,3 @@ Found a bug or have an idea for improvement?
 
 Need help? We're here for you!
 
-- **Documentation:** [Wiki](https://github.com/alihayajneh/Audio-Video-Generator/wiki)
-- **FAQ:** [Frequently Asked Questions](https://github.com/alihayajneh/Audio-Video-Generator/wiki/FAQ)
-- **Community:** [Discord Server](https://discord.gg/audio-video-generator)
-- **Email:** support@audio-video-generator.com
-
-## ⭐ Show Your Support
-
-If AudioViz Pro helps you create amazing content, please consider:
-
-- ⭐ **Starring the repository**
-- 🐛 **Reporting bugs**
-- 💡 **Suggesting features**  
-- 📢 **Sharing with friends**
-- ☕ **Buy us a coffee** [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow.svg)](https://buymeacoffee.com/audiovideogen)
-
----
-
-<div align="center">
-
-**Made with ❤️ by the Audio Video Generator Team**
-
-[Website](https://audio-video-generator.com) • [Documentation](https://docs.audio-video-generator.com) • [Community](https://discord.gg/audio-video-generator)
-
-</div>
