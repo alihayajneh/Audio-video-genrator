@@ -158,38 +158,6 @@ Audio-Video-Generator/
 - **Optimized Encoding** - Uses hardware acceleration when available
 - **Smart Caching** - Reduces processing time for similar content
 
-## 🎨 Visualization Gallery
-
-<table>
-<tr>
-<td align="center">
-<img src="demo/modern-waveform.png" width="200px" alt="Modern Waveform">
-<br><b>Modern Waveform</b>
-</td>
-<td align="center">
-<img src="demo/glow-bars.png" width="200px" alt="Glow Bars">
-<br><b>Glow Bars</b>
-</td>
-<td align="center">
-<img src="demo/circular-bars.png" width="200px" alt="Circular Bars">
-<br><b>Circular Bars</b>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="demo/spectrum-wave.png" width="200px" alt="Spectrum Wave">
-<br><b>Spectrum Wave</b>
-</td>
-<td align="center">
-<img src="demo/particle-wave.png" width="200px" alt="Particle Wave">
-<br><b>Particle Wave</b>
-</td>
-<td align="center">
-<img src="demo/neon-bars.png" width="200px" alt="Neon Bars">
-<br><b>Neon Bars</b>
-</td>
-</tr>
-</table>
 
 ## 🔧 Configuration
 
